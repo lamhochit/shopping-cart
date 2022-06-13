@@ -1,8 +1,19 @@
-# Getting Started with Create React App
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <h3 align="center">Shopping Cart 🛒:</h3>
+
+  <p align="center">
+    A dummy React shopping cart (completely useless)
+    <br />
+  </p>
+</div>
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
