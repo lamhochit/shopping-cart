@@ -9,6 +9,10 @@
   </p>
 </div>
 
+### About The Project
+
+This is my first attempt coding in React, I do not like it.
+
 ### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
